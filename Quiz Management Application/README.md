@@ -24,3 +24,5 @@ Images 📸
 -----------------------------------------------------------------------------------------------------------------------------
 
 <img width="211" alt="shot1" src="https://github.com/nazzmul-anik/JAVA-OOP-PROJECTS/assets/110289715/98e3a7a4-36d7-4d07-a045-7b6eb523da6c">
+<img width="228" alt="shot2" src="https://github.com/nazzmul-anik/JAVA-OOP-PROJECTS/assets/110289715/7b114bee-8f07-45fa-b9c2-f1aa66a85826">
+
